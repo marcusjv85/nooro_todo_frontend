@@ -86,15 +86,6 @@ Make sure your **backend server** is running before starting the frontend.
 
 ---
 
-## 🔧 Available Scripts
-| Command               | Description                        |
-|-----------------------|------------------------------------|
-| `npm run dev`        | Run development server (`localhost:3000`) |
-| `npm run build`      | Build for production |
-| `npm run start`      | Start the production server |
-
----
-
 ## 📝 API Endpoints (Used by Frontend)
 | Method | Endpoint             | Description |
 |--------|----------------------|-------------|
